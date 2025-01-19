@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_TOKEN = os.getenv("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")
+API_TOKEN = os.getenv("huggin-face-api-token to be added here")
 API_URL = "https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct"
 
 headers = {
