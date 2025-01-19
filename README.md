@@ -41,7 +41,6 @@ gomarble-api/
 │   │   ├── llm.py
 │   ├── models/
 │   │   ├── schemas.py
-
 ├── frontend/
 │   ├── public/
 │   ├── src/
