@@ -1,0 +1,19 @@
+# FastAPI and ASGI server
+fastapi==0.95.2
+uvicorn==0.22.0
+
+# Web scraping
+playwright==1.36.0
+
+# Hugging Face API
+requests==2.31.0
+transformers==4.31.0
+
+# Environment variables
+python-dotenv==1.0.0
+
+# Data models
+pydantic==1.10.7
+
+# Async support
+nest-asyncio==1.5.6
